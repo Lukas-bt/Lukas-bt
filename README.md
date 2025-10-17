@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on personal projects
 - 🎯 I'm trying to become **Software Engineer**
 - 📫 How to reach me: **shift__** on Discord
+- 🍂 [Portfolio](https://lukasb.dev) & [Leetcode Profile](https://leetcode.com/u/atsukadev/)
 
 ## 🛠️ • Languages, Tool & Frameworks
 
