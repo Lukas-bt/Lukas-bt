@@ -2,7 +2,7 @@
 
 ## 👀 • About Me
 - 🔭 I’m currently working on personal projects
-- 🎯 I'm trying to become **Software Engineer**
+- 🇫🇷 French IT student
 - 🍂 [Portfolio](https://lukasb.dev)
 
 ## 🛠️ • Languages, Tool & Frameworks
@@ -22,7 +22,3 @@
 ### ✦ Others
 
 [![Others](https://skillicons.dev/icons?i=git,github,figma,&theme=dark)](https://skillicons.dev)
-
-
-## 📊 • Statistics
-![Lukas's Top Languages](https://githubstats.lukasb.dev/api/top-langs/?username=Lukas-bt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
