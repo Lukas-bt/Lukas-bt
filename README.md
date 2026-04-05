@@ -9,16 +9,16 @@
 
 ### ✦ Programming
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,py,c,java,html,css,mysql,php&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,kotlin,py,c,java,html,css,mysql,php&theme=dark)](https://skillicons.dev)
 
 ### ✦ Frameworks & Libs
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,discordjs,tailwind&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,vue,laravel,nestjs,nextjs,nodejs,discordjs,tailwind&theme=dark)](https://skillicons.dev)
 
 ### ✦ Tools & IDE
 
-[![Tools](https://skillicons.dev/icons?i=eclipse,vscode&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=eclipse,vscode,docker&theme=dark)](https://skillicons.dev)
 
 ### ✦ Others
 
-[![Others](https://skillicons.dev/icons?i=git,github,figma,&theme=dark)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=git,github,figma,androidstudio,bash,&theme=dark)](https://skillicons.dev)
